@@ -1,8 +1,8 @@
 import React, { useEffect, useState, useRef } from "react";
 import styled, { css } from "styled-components";
-import { FaSlideshare } from "react-icons/fa";
+
 import { IoMdArrowRoundForward } from "react-icons/io";
-import { IoMdArrowForward, IoArrowBack, IoArrowForward } from "react-icons/io5";
+import { IoArrowBack, IoArrowForward } from "react-icons/io5";
 
 import { Button } from "./Button";
 
